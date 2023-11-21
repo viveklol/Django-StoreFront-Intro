@@ -1,5 +1,5 @@
 ﻿# Django-StoreFront-Intro
-Basic Django project to get started on urls, settings, models.
+Basic Django project to get started on urls, settings, models. Django-debug-toolbar was also added to help debug issues faster and basically get a good understanding of the project flow.
 
 ## Steps
 * `pip install pipenv`
